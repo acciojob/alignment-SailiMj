@@ -1,6 +1,6 @@
 /*  your css code here. If applicable */
 .middle{
-	width: 500px;
+	width: 1200px;
 	height: 100px
 }
 table,td,tr{
@@ -9,5 +9,7 @@ border: 1px solid black;
             }
 #table-3{
 	padding:10px  0px 10px 0px
-	
+}
+#eg-1{
+	text-align: center;
 }
