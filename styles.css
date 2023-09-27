@@ -1,1 +1,11 @@
 /*  your css code here. If applicable */
+.middle{
+	width: 500px;
+	height: 100px
+}
+table,td,tr{
+border: 1px solid black;
+            }
+#table-3{
+	padding:10px 10px 
+}
