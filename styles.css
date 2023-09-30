@@ -5,11 +5,20 @@
 }
 table,td,tr{
 border: 1px solid black;
-	
+padding: 1px;	
             }
-#table-3{
-	padding:10px  0px 10px 0px
+.eg-2{
+	padding: 10px;
+}
+#green{
+	background-color: green;
+}
+#blue{
+	background-color: blue;
 }
 #eg-1{
+	text-align: center;
+}
+img{
 	text-align: center;
 }
